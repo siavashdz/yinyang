@@ -20,10 +20,6 @@
 > >
 > > > #### <li><a href="#media v1.0">@media query {...} </a></li>
 > > >
-> > > #### <li><a href="#frame v1.0">@key frame {...} </a></li>
-> > >
-> > > #### <li><a href="#sup v1.0">@suport {...} </a></li>
-> > >
 > > > #### <li><a href="#flex v1.0"> display: flex ; </a></li>
 > > >
 > > > <br>
@@ -51,27 +47,9 @@
   <h3 id="media v1.0"> <li>@media query {...} :</li></h3>
   <p>
   This project is responsive for mobile, tablet and laptop and for sizes: <br>
-  mobile ---> width =< 640px <br>
-  tablet ---> 641px =< width =< 720px <br>
-  mobile ---> 721px =< width 
-  </p>
-
-  <br>
-  <br>
-
-<!--------------------- key frame ---------------------->
-  <h3 id="frame v1.0"> <li>@key frame {...} : </li></h3>
-  <p>
-  Animation is used only for endless rotation.
-  </p>
-
-  <br>
-  <br>
-
-<!--------------------- @suport ---------------------->
-  <h3 id="sup v1.0"> <li>@suport {...} : </li></h3>
-  <p>
-  This technology is used to optimize codes and flex.
+  mobile ---> width =< 425px <br>
+  tablet ---> 426px =< width =< 768px <br>
+  mobile ---> 769px =< width 
   </p>
 
   <br>
